@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    
+    margin-top: 5%;
+    padding: 10%;
+}
+.game{
+    /* position: absolute; */
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ h1{
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding-top: 2%;
+}
+#start-btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3%;
+    margin-left: 45%;
+}
+ 
+.container{
+    position: absolute;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin-bottom: -1%;
+    background-color: purple;
+}
+#question{
+    /* position: absolute; */
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    /* margin: 0; */
+}
+/* .btn{
+    padding: 10%;
+    margin: 3%;
+} */
+ 
+/* .hide{
+    display: none;
+} */
